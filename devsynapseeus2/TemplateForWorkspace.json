@@ -110,7 +110,7 @@
 						"spark.dynamicAllocation.enabled": "false",
 						"spark.dynamicAllocation.minExecutors": "2",
 						"spark.dynamicAllocation.maxExecutors": "2",
-						"spark.autotune.trackingId": "ce003f40-fe9c-4089-b144-93ed4269f3c0"
+						"spark.autotune.trackingId": "dc640d00-9202-4be7-a4cf-4e65821e3629"
 					}
 				},
 				"metadata": {
@@ -130,7 +130,8 @@
 						"cell_type": "code",
 						"metadata": {},
 						"source": [
-							"123456xyzabc"
+							"123456xyzabc\r\n",
+							"himanshu"
 						],
 						"outputs": [],
 						"execution_count": null
